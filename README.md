@@ -2,7 +2,7 @@
 
 ## 💻 Full-Stack PHP Developer | Laravel & Livewire Specialist | API Integrator
 
-Welcome to my GitHub profile! I'm a passionate web developer with several years of hands-on experience in building scalable, secure, and high-performance web applications. My primary focus is backend development using **PHP** and **Laravel**, but I also enjoy crafting dynamic frontend experiences using tools like **Livewire**, **Alpine.js**, and **Tailwind CSS**.
+Welcome to my GitHub profile! I'm a passionate web developer with several years of hands-on experience in building scalable, secure, and high-performance web applications. My primary focus is backend development using **PHP** and **Laravel**, but I also enjoy crafting dynamic frontend experiences using tools like **Livewire** and **Bootstrap**.
 
 ---
 
@@ -10,19 +10,19 @@ Welcome to my GitHub profile! I'm a passionate web developer with several years 
 
 ### 🧠 Backend
 - ✅ PHP (OOP & MVC)
-- ✅ Laravel / Lumen
+- ✅ Laravel
 - ✅ RESTful API Development
-- ✅ MySQL / PostgreSQL
+- ✅ MySQL
 - ✅ Eloquent ORM & Query Builder
 - ✅ Queue & Job Handling
 - ✅ Laravel Livewire
 
 ### 🌐 Frontend
 - ✅ Blade Templating
-- ✅ Livewire & Alpine.js
+- ✅ Livewire
 - ✅ Tailwind CSS / Bootstrap
-- ✅ JavaScript (Vanilla & jQuery)
-- ✅ Vue.js (basic)
+- ✅ JavaScript
+- ✅ React.js (basic)
 
 ### ⚙️ DevOps & Tools
 - ✅ Git / GitHub / Bitbucket
@@ -57,9 +57,8 @@ Welcome to my GitHub profile! I'm a passionate web developer with several years 
 
 I'm open to freelance opportunities, remote roles, and collaboration on meaningful open-source projects.
 
-- 🌍 [Your Portfolio Website](#)
-- 💼 [LinkedIn](#)
-- 📧 Email: `youremail@example.com`
+- 🌍 [Your Portfolio Website](https://codewithzubi.com/)
+- 📧 Email: `codewithzubi9@gmail.com`
 
 Thanks for visiting! ⭐ If you like my work, feel free to follow and star a few projects!
 
